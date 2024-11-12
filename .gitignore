@@ -164,3 +164,7 @@ thumb
 sketch
 
 # End of https://www.toptal.com/developers/gitignore/api/node,cypressio,react
+
+
+client/node_modules
+server/node_modules
