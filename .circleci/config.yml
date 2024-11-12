@@ -16,6 +16,7 @@ jobs:
               name: Build the app
               command: npm run build
 
+
 workflows:
   run-tests:
     jobs:
